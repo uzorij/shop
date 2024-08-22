@@ -1,3 +1,14 @@
+@media only screen and ( min-width: 360px){ 
+    .flow{width: 50%; }
+}
+
+
+
+
+
+
+
+
 nav {
     display: flex;
     justify-content: space-between;
